@@ -1,0 +1,19 @@
+
+TV1,http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=TV1
+TV2,http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=TV2
+TV3,http://iptv.gohkh.giize.com/php/TV3.php?qu=720P
+TV3,https://gohkh0825.github.io/LIVE-TV/tonton-live/TV3.m3u8
+TV Okey,http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=TV Okey
+BERITA RTM,http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=BERITA RTM
+DidikTVKPM,http://iptv.gohkh.giize.com/php/NTV7.php?qu=720P
+DidikTVKPM,https://gohkh0825.github.io/LIVE-TV/tonton-live/DidikTVKPM.m3u8
+八度空间,http://iptv.gohkh.giize.com/php/8TV.php?qu=720P
+八度空间,http://iptv.gohkh.giize.com/php/8TV.php?qu=1080P
+八度空间,https://gohkh0825.github.io/LIVE-TV/tonton-live/8TV.m3u8
+TV9,http://iptv.gohkh.giize.com/php/TV9.php?qu=720P
+TV9,,https://gohkh0825.github.io/LIVE-TV/tonton-live/TV9,.m3u8
+DEWAN RAKYAT,http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=DEWAN RAKYAT
+SUKAN RTM,http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=SUKAN RTM
+DEWAN NEGARA,http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=DEWAN NEGARA
+Channel 8 [Geo-blocked],https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
+Channel 8 [Geo-blocked],http://192.168.100.11:7779/ch8.mpd
