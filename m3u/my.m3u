@@ -33,5 +33,4 @@ http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=SUKAN
 http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=DEWAN
 #EXTINF:-1 group-title="新马",Channel 8 [Geo-blocked]
 https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
-#EXTINF:-1 group-title="新马",Channel 8 [Geo-blocked]
-http://192.168.100.11:7779/ch8.mpd
+
