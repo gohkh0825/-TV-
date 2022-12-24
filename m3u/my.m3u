@@ -23,8 +23,8 @@ http://iptv.gohkh.giize.com/php/8TV.php?qu=1080P
 https://gohkh0825.github.io/LIVE-TV/tonton-live/8TV.m3u8
 #EXTINF:-1 ,TV9
 http://iptv.gohkh.giize.com/php/TV9.php?qu=720P
-#EXTINF:-1 ,TV9,
-https://gohkh0825.github.io/LIVE-TV/tonton-live/TV9,.m3u8
+#EXTINF:-1 ,TV9
+https://gohkh0825.github.io/LIVE-TV/tonton-live/TV9.m3u8
 #EXTINF:-1 ,DEWAN RAKYAT
 http://iptv.gohkh.giize.com/php/rtmklik.rtm.php?id=DEWAN RAKYAT
 #EXTINF:-1 ,SUKAN RTM
