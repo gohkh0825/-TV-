@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",101 TV1
 http://192.168.100.2:1234/stream/my/tv1/master.m3u8
 #EXTINF:-1group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 CHINESE (ASTRO GO)" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png",102 TV2
