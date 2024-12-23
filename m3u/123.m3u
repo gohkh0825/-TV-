@@ -31,3 +31,7 @@ http://192.168.100.226:1234/stream/sg/channel8/master.m3u8?u=admin&p=27aa580a4bb
 http://192.168.100.226:1234/stream/sg/channelu/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 #EXTINF:-1 tvg-id="CTiNews.tw" tvg-name="CTiNews.tw" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇨🇳 🇹🇼 (192.168.100.226)", 中天新聞台
 http://192.168.100.226:1234/stream/cntw/ctinews/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
+#EXTINF:-1 tvg-id="DaAi1.tw"  tvg-logo="http://www.daai.tv/images/logo.png" group-title="🇨🇳 🇹🇼 (192.168.100.226)",DaAi1 (大愛1) 
+http://192.168.100.226:1234/stream/cntw/daai11/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
+#EXTINF:-1 tvg-id="DaAi2.tw"  tvg-logo="http://www.daai.tv/images/logo.png" group-title="🇨🇳 🇹🇼 (192.168.100.226)",DaAi2 (大愛2) 
+http://192.168.100.226:1234/stream/cntw/daai22/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
