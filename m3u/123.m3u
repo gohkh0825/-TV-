@@ -18,25 +18,25 @@ http://192.168.100.226:1234/stream/astro/huaheedai/master.m3u8?u=admin&p=27aa580
 #EXTINF:6 group-title="ASTRO" tvg-id="astro/iqiyi" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] IQIYI
 http://192.168.100.226:1234/stream/astro/iqiyi/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 
-#EXTINF:7 group-title="ASTRO" tvg-id="astro/ntv7" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] NTV7
+#EXTINF:7 group-title="ASTRO" tvg-id="astro/ntv7" tvg-logo="https://didik.tv/images/logotv2.png" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] NTV7
 http://192.168.100.226:1234/stream/astro/ntv7/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 
 #EXTINF:8 group-title="ASTRO" tvg-id="astro/phoenix" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] PHOENIX
 http://192.168.100.226:1234/stream/astro/phoenix/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 
-#EXTINF:9 group-title="ASTRO" tvg-id="astro/tv1" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TV1
+#EXTINF:9 group-title="ASTRO" tvg-id="astro/tv1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TV1
 http://192.168.100.226:1234/stream/astro/tv1/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 
-#EXTINF:10 group-title="ASTRO" tvg-id="astro/tv2" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TV2
+#EXTINF:10 group-title="ASTRO" tvg-id="astro/tv2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TV2
 http://192.168.100.226:1234/stream/astro/tv2/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 
-#EXTINF:11 group-title="ASTRO" tvg-id="astro/tv3" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TV3
+#EXTINF:11 group-title="ASTRO" tvg-id="astro/tv3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TV3
 http://192.168.100.226:1234/stream/astro/tv3/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 
 #EXTINF:12 group-title="ASTRO" tvg-id="astro/tv9" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TV9
 http://192.168.100.226:1234/stream/astro/tv9/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 
-#EXTINF:13 group-title="ASTRO" tvg-id="astro/tvbclassic" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TVB CLASSIC
+#EXTINF:13 group-title="ASTRO" tvg-id="astro/tvbclassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TVB CLASSIC
 http://192.168.100.226:1234/stream/astro/tvbclassic/master.m3u8?u=admin&p=27aa580a4bbb05f0e040c2051b9ded279b0bbe36dbc8f418099d414aa517d34e
 
 #EXTINF:14 group-title="ASTRO" tvg-id="astro/tvbjade" tvg-logo="" provider="ASTRO" provider-logo="" provider-type="iptv",[ASTRO] TVB JADE
